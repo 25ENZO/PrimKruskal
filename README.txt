@@ -1,4 +1,2 @@
 
-Algorithmes de Prim et Kruskal en C++
--- 
-Hamza OBEIDAT
+Implémentation des algorithmes de Prim et Kruskal en C++
